@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sai-harsha-k-portfolio/static/css/main.87c51321.css",
+    "main.js": "/sai-harsha-k-portfolio/static/js/main.aafedfb7.js",
+    "static/media/RogfreeImage.png": "/sai-harsha-k-portfolio/static/media/RogfreeImage.993cda77ba697f732f83.png",
+    "static/media/Avatar.png": "/sai-harsha-k-portfolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
+    "static/media/Resume.pdf": "/sai-harsha-k-portfolio/static/media/Resume.7d2b068eec2ffe65dbd0.pdf",
+    "static/media/node.png": "/sai-harsha-k-portfolio/static/media/node.b865c12695b1a741090f.png",
+    "static/media/react-native.png": "/sai-harsha-k-portfolio/static/media/react-native.7ca645337943741ca7af.png",
+    "static/media/budget.png": "/sai-harsha-k-portfolio/static/media/budget.090f7076c8bbbf7bfcb2.png",
+    "static/media/blog.png": "/sai-harsha-k-portfolio/static/media/blog.59400df12dc3df2979c4.png",
+    "index.html": "/sai-harsha-k-portfolio/index.html",
+    "main.87c51321.css.map": "/sai-harsha-k-portfolio/static/css/main.87c51321.css.map",
+    "main.aafedfb7.js.map": "/sai-harsha-k-portfolio/static/js/main.aafedfb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c51321.css",
+    "static/js/main.aafedfb7.js"
+  ]
+}
