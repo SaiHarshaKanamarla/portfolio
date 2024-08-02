@@ -31,8 +31,8 @@ const Home = () => {
           <p>
             I am a Full Stack Developer by trade and writing code keeps me ticking. <br></br>
             I always look for tasks that challenge me and I love learning new things <br /><br />
-            I am skilled in <b>JavaScript</b>, <b>Python</b> and love working with <b>React</b>, <b>React Native</b>, <b>Node.js</b>
-            I plan to learn <b>Next.js</b>, <b>Three.js</b> in the near future. <br /><br />
+            I am skilled in <b>JavaScript</b>, <b>Python</b> and love working with <b>React</b>, <b>React Native</b>, <b>Node.js</b>, <b>Flask</b> and <b>GraphQL</b><br></br>
+            I plan to learn <b>Next.js</b> and <b>Three.js</b> in the near future. <br /><br />
 
             PS - I am a <b>coffee</b> addict! <CiCoffeeCup style={{ scale: "1.5", rotate: "15deg" }} />
           </p>
