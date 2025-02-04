@@ -11,9 +11,9 @@ const About = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
-            Hi, my name is <b>Sai Harsha Kanamarlapudi</b> and I am originally from Hyderabad, India currently living in Charlotte, North Carolina.
+            Hi, my name is <b>Sai Harsha Kanamarlapudi</b> and I am originally from Hyderabad, India currently living in San Fransisco, California.
             I'm a <b>Full Stack Developer</b> with a Masters Degree in <b>Computer Science</b>.  <br /><br />
-            I work as a Full Stack Engineer at <b>Federated Wireless</b> and previously worked at <b>University of North Carolina at Charlotte</b>, <b>Kony Labs</b> and <b>Robotries</b>.<br /><br />
+            I work as a Full Stack Engineer at <b>Intuit</b> and previously worked at <b>Federated Wireless</b>, <b>University of North Carolina at Charlotte</b>, <b>Kony Labs</b> and <b>Robotries</b>.<br /><br />
             I love coding in JavaScript and Python and I am always looking for ways to improve myself and learn more. I love tech and always keep myself updated with various advancements in technology. I can go on about tech for hours on end and would not get bored.
             <br /><br />
             The journey to reach where I currently am has not been easy and I don't expect the future to be easy as well, because, where's the challenge in it, right? . I look forward to various opportunities in the future and keep myself motivated for anything that comes ahead.<br /><br />
